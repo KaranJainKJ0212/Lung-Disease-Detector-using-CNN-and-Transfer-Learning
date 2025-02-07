@@ -6,6 +6,9 @@ This repository contains the implementation of deep learning models for lung dis
 
 ## Dataset
 
+The dataset used in this study can be accessed here: [Lung Disease Dataset on Kaggle](https://www.kaggle.com/datasets/karanjain21/lung-disease-datasets).
+
+
 The dataset used in this study consists of **3,475** X-ray images categorized into three classes:
 
 - **Normal (1250 images)** - Healthy lung conditions.
